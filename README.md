@@ -111,9 +111,9 @@ The security sweep uses the Strategy pattern:
 | Member | Contribution |
 | --- | --- |
 | Ahmed Almash | Software development and cabinet assembly |
-| Rashed Alduwaihy | Software development |
+| Rashed Alduwaihy | Software development and cabinet assembly |
 | Rouda Alawadhi | Hardware and cabinet design |
-| Haleema Saud | Hardware |
+| Haleema Saud | Hardware and cabinet design |
 
 ## Current Limitations
 
